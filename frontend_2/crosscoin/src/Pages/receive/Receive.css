@@ -1,0 +1,35 @@
+.rec_upupper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rec_upper{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 20%;
+    left: 42%;
+    background-color: #ffffff;
+    width: 400px;
+    height: 500px;
+    opacity: 0.6;
+    border-radius: 15px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}
+.lramt{
+    color: black;
+    margin-top: 45px;
+    font-size: 24px;
+}
+.show_balance{
+    color: black;
+    margin-top: 45px;
+    font-size: 24px;
+    transition: all 2s;
+}
+.show_balbtn{
+    width: 300px;
+}

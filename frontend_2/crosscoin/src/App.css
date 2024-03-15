@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    background-image: url("./assets/images/xyz.png");
+    background-size: contain;
+    background-position: top 200px;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+
+}
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: transparent;
+  }
